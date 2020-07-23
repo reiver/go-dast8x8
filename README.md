@@ -1,6 +1,6 @@
 # go-dast8x8
 
-Package **dast8x8** provides a set of **8×8 sprites** for the character names **DAST**,
+Package **dast8x8** provides a set of **8×8 sprites** for the character named **DAST**,
 that seamlessly works with Go's built-in `"image"`, `"image/color"`, and `"image/draw"` packages.
 
 ## Documention
